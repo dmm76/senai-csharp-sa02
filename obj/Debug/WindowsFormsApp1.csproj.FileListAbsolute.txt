@@ -1,0 +1,10 @@
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\SENAI_APP\CadastroGeralv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
