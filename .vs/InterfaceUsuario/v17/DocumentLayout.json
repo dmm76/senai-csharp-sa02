@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65231F85-EA04-47A0-AC6F-3C2B2152B39A}|InterfaceUsuario.csproj|c:\\users\\master10\\documents\\github\\senai-csharp-sa02\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{65231F85-EA04-47A0-AC6F-3C2B2152B39A}|InterfaceUsuario.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{65231F85-EA04-47A0-AC6F-3C2B2152B39A}|InterfaceUsuario.csproj|c:\\users\\master10\\documents\\github\\senai-csharp-sa02\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65231F85-EA04-47A0-AC6F-3C2B2152B39A}|InterfaceUsuario.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Menu.cs [Design]",
+              "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa02\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa02\\Menu.cs [Design]",
-              "RelativeToolTip": "Menu.cs [Design]",
+              "ToolTip": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa02\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:45:25.002Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-06T17:53:39.513Z",
+              "EditorCaption": ""
             }
           ]
         }
